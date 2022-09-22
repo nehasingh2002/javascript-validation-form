@@ -1,1 +1,2 @@
-JavaScript Validation Form
+# Registration-form-validation-using-javascript
+This registration form is created using HTML , CSS AND Javascript. In this the client-side validation is done using the Javascript by creating function. It does not allow user to leave a required information field to be empty and if user tries to leave it empty then it does not accept the form and throws error. It also checks for the information entered in the various sections is valid or not and if not valid, it again throws error.
